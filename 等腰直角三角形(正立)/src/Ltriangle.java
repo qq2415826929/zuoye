@@ -33,6 +33,8 @@ public class Ltriangle {
 		}
 
 	}
+    public void dh(){
+	}
 
 	public int dhinput(int low, int high, String string) {
 		int temp;
